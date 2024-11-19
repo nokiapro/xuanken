@@ -1,0 +1,80 @@
+@import url('../font/stylesheet.css');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    flex-direction: column;
+    background: #040d15;
+    font-weight: bold;
+}
+
+a {
+    position: relative;
+    display: inline-block;
+    padding: 12px 36px;
+    margin: 10px 0;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+    border-radius: 40px;
+    background-image: linear-gradient(to right, #1A2980 0%, #26D0CE 51%, #1A2980 100%);
+    overflow: hidden;
+    border: #fff dashed 1px;
+}
+
+a:nth-of-type(2) {
+    background-image: linear-gradient(to right, #c21500 0%, #ffc500 51%, #c21500 100%);
+}
+
+a:nth-of-type(3) {
+    background-image: linear-gradient(to right, #616161 0%, #9bc5c3 51%, #616161 100%);
+}
+
+a:nth-of-type(4) {
+    background-image: linear-gradient(to right, #649173 0%, #DBD5A4 51%, #649173 100%);
+}
+
+a:nth-of-type(5) {
+    background-image: linear-gradient(to right, #000000 0%, #e74c3c 51%, #000000 100%);
+}
+
+a:nth-of-type(6) {
+    background-image: linear-gradient(to right, #556270 0%, #FF6B6B 51%, #556270 100%);
+}
+
+a:hover {
+    background-position: right center;
+    color: #fff;
+    text-decoration: none;
+  }
+
+span {
+    position: absolute;
+    background: #fff;
+    transform: translate(-50%, -50%);
+    animation: animate  .9s linear infinite;
+    border-radius: 50%;
+}
+
+@keyframes animate {
+    0% {
+        width: 0px;
+        height: 0px;
+        opacity: 0.5;
+    }
+
+    100% {
+        width: 500px;
+        height: 500px;
+        opacity: 0;
+    }
+}
