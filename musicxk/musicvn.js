@@ -8,9 +8,9 @@ website 1: karaokenb.ga
 website 2: nhacbuon.tk
 website 3: clipnb.ga
 */
-    const ap = new APlayer({
+const ap = new APlayer({
     container: document.getElementById('player'),
-    fixedBar: true,
+    mini: false,
     lrcType: 3,
     loop: 'all',
     order: 'random',
@@ -24,28 +24,28 @@ website 3: clipnb.ga
         {
             name: 'Nơi Vực Nơi Trời (Ballad)',
             artist: 'Lê Bảo Bình',
-            url: 'music/NoiVucNoiTroiBallad-LeBaoBinh.mp3',
+            url: 'https://archive.org/download/musicnewxk/NoiVucNoiTroiBallad-LeBaoBinh.mp3',
             cover: 'https://i.imgur.com/pQ1r8G2.jpg',
             theme: '#94b1e1',
         },
         {
             name: 'Cánh Hoa Héo Tàn',
             artist: 'Mochiii',
-            url: 'music/CanhHoaHeoTan-MoChiii.mp3',
+            url: 'https://archive.org/download/musicnewxk/CanhHoaHeoTan-MoChiii.mp3',
             cover: 'https://i.imgur.com/SnLmYh5.jpeg',
             theme: '#47e5e7',
         },
         {
             name: 'Anh Đau Từ Lúc Em Đi',
             artist: 'Trần Mạnh Cường',
-            url: 'music/AnhDauTuLucEmDi-TranManhCuong.mp3',
+            url: 'https://archive.org/download/musicnewxk/AnhDauTuLucEmDi-TranManhCuong.mp3',
             cover: 'https://i.imgur.com/haiOk7J.jpeg',
             theme: '#2dd906',
         },
         {
             name: 'Nhường Người Đến Sau',
             artist: 'Mochiii',
-            url: 'music/NhuongNguoiDenSau-Mochiii.mp3',
+            url: 'https://archive.org/download/musicnewxk/NhuongNguoiDenSau-Mochiii.mp3',
             cover: 'https://i.imgur.com/SnLmYh5.jpeg',
             lrc: 'lyric/NhuongNguoiDenSau-Mochiii.lrc',
             theme: '#2f3291',
@@ -53,7 +53,7 @@ website 3: clipnb.ga
         {
             name: 'Cảm Ơn Em',
             artist: 'Đặng Thiên Chí',
-            url: 'music/CamOnEm-ThienChi.mp3',
+            url: 'https://archive.org/download/musicnewxk/CamOnEm-ThienChi.mp3',
             cover: 'https://i.imgur.com/vcoSn3O.jpeg',
             lrc: 'lyric/CamOnEm-ThienChi.lrc',
             theme: '#66c6da',
@@ -61,28 +61,28 @@ website 3: clipnb.ga
         {
             name: 'Người Về Phương Xa (Cover)',
             artist: 'Kiều Thơ',
-            url: 'music/NguoiVePhuongXaCover-KieuTho.mp3',
+            url: 'https://archive.org/download/musicnewxk/NguoiVePhuongXaCover-KieuTho.mp3',
             cover: 'https://i.imgur.com/RVh4Mk6.jpeg',
             theme: '#d91ae9',
         },
         {
             name: 'Kết Thúc Bất Ngờ',
             artist: 'Nguyễn Vĩ',
-            url: 'music/KetThucBatNgo-NguyenVi.mp3',
+            url: 'https://archive.org/download/musicnewxk/KetThucBatNgo-NguyenVi.mp3',
             cover: 'https://i.imgur.com/LGlG961.jpeg',
             theme: '#4c789b',
         },
         {
             name: 'Bán Nguyệt Ly Tâm',
             artist: 'Thiên Tú',
-            url: 'music/BanNguyetLyTam-ThienTu.mp3',
+            url: 'https://archive.org/download/musicnewxk/BanNguyetLyTam-ThienTu.mp3',
             cover: 'https://i.imgur.com/ocfO6br.jpeg',
             theme: '#7434f4',
         },
         {
             name: 'Ai Chung Tình Được Mãi (Rumba)',
             artist: 'Mochiii',
-            url: 'music/AiChungTinhDuocMaiRumba-MoChiii.mp3',
+            url: 'https://archive.org/download/musicnewxk/AiChungTinhDuocMaiRumba-MoChiii.mp3',
             cover: 'https://i.imgur.com/SnLmYh5.jpeg',
             lrc: 'lyric/AiChungTinhDuocMaiRumba-MoChiii.lrc',
             theme: '#32a504',
