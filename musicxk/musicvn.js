@@ -112,7 +112,7 @@ const ap = new APlayer({
         },
         {
             name: 'Phố Một Người',
-            artist: 'Hồ Quang Hiếu, Trịnh Đình Quang',
+            artist: 'Hồ Quang Hiếu, TĐQ',
             url: 'https://dl.dropboxusercontent.com/s/81hsf6zryvn72yf/Pho-Mot-Nguoi-Ho-Quang-Hieu-Trinh-Dinh-Quang.mp3',
             cover: 'https://i.imgur.com/ioVNUuJ.jpg',
             lrc: 'https://dl.dropboxusercontent.com/s/ohqb1pevgywpero/Pho-Mot-Nguoi.lrc',
@@ -247,7 +247,7 @@ const ap = new APlayer({
         },
         {
             name: 'Em Gái Quê',
-            artist: 'Sumo, K-ICM',
+            artist: 'Sumo',
             url: 'https://dl.dropboxusercontent.com/s/ozgkq5aae62bkm2/Em-Gai-Que-Sumo-K-ICM.mp3',
             cover: 'https://i.imgur.com/D7dA3Nx.png',
             lrc: 'https://dl.dropboxusercontent.com/s/icdh3vwbzwipejk/Em-Gai-Que.lrc',
@@ -271,7 +271,7 @@ const ap = new APlayer({
         },
         {
             name: 'Phận Hoa Rơi',
-            artist: 'Vicky Nhung, K-ICM',
+            artist: 'Vicky Nhung',
             url: 'https://dl.dropboxusercontent.com/s/17mvsfpswlukbuf/Phan-Hoa-Roi-Vicky-Nhung-K-ICM.mp3',
             cover: 'https://i.imgur.com/mFoydiv.jpg',
             lrc: 'https://dl.dropboxusercontent.com/s/kf22o5ivacciqja/Phan-Hoa-Roi.lrc',
@@ -599,7 +599,7 @@ const ap = new APlayer({
             theme: '#c2b35d',
         },
         {
-            name: 'Người Muốn Yêu, Kẻ Muốn Buông 2',
+            name: 'Người Muốn Yêu, KMB 2',
             artist: 'Phong Hạo, Báo Tay Band',
             url: 'https://dl.dropboxusercontent.com/s/z5vx758oqg9r7qm/Nguoi-Muon-Yeu-Ke-Muon-Buong-Phong-Hao-Bao-Tay-Band.mp3',
             cover: 'https://i.imgur.com/AifCam8.jpg',
@@ -607,7 +607,7 @@ const ap = new APlayer({
         },
         {
             name: 'Lệ Duyên Tình',
-            artist: 'Long Nón Lá, K-ICM',
+            artist: 'Long Nón Lá',
             url: 'https://dl.dropboxusercontent.com/s/06sb5ranvak3rpi/Le-Duyen-Tinh-Long-Non-La-K-ICM.mp3',
             cover: 'https://i.imgur.com/MO6h4hp.jpg',
             lrc: 'https://dl.dropboxusercontent.com/s/6fndla5puye488o/Le-Duyen-Tinh.lrc',
@@ -622,7 +622,7 @@ const ap = new APlayer({
         },
         {
             name: 'Sài Gòn Đau Lòng Quá',
-            artist: 'Hứa Kim Tuyền, Hoàng Duyên',
+            artist: 'Hứa Kim Tuyền, HD',
             url: 'https://dl.dropboxusercontent.com/s/bnw91cebpkqea84/Sai-Gon-Dau-Long-Qua-Hua-Kim-Tuyen-Hoang-Duyen.mp3',
             cover: 'https://i.imgur.com/bil3tPf.jpg',
             theme: '#018883',
@@ -679,7 +679,7 @@ const ap = new APlayer({
             theme: '#bd9380',
         },
         {
-            name: 'Chỉ Là Không Cùng Nhau (Live Version)',
+            name: 'Chỉ Là Không Cùng Nhau (Live)',
             artist: 'Tăng Phúc, Trương Thảo Nhi',
             url: 'https://dl.dropboxusercontent.com/s/s5s8rl2sarp9d71/Chi-La-Khong-Cung-Nhau-Tang-Phuc-Truong-Thao-Nhi.mp3',
             cover: 'https://i.imgur.com/tvseqZN.jpg',
@@ -735,7 +735,7 @@ const ap = new APlayer({
             theme: '#a57b3a',
         },
         {
-            name: 'Mashup Ngôi Nhà Hoa Hồng - Mỗi Người Một Nơi',
+            name: 'Mashup Ngôi Nhà Hoa Hồng & MNMN',
             artist: 'Vicky Nhung, Tố Ny',
             url: 'https://dl.dropboxusercontent.com/s/h3iuj7haddllsgh/Mashup-Ngoi-Nha-Hoa-Hong-Moi-Nguoi-Mot-Noi-Vicky-Nhung-To-Ny.mp3',
             cover: 'https://i.imgur.com/V7pda6M.jpg',
@@ -821,7 +821,7 @@ const ap = new APlayer({
         },
         {
             name: 'Khác Biệt To Lớn',
-            artist: 'Trịnh Thăng Bình, Liz Kim Cương',
+            artist: 'Trịnh Thăng Bình, Liz KC',
             url: 'https://dl.dropboxusercontent.com/s/kvm7o1blvji2c5m/Khac-Biet-To-Lon-Trinh-Thang-Binh-Liz-Kim-Cuong.mp3',
             cover: 'https://i.imgur.com/ccBDYB6.jpg',
             lrc: 'https://dl.dropboxusercontent.com/s/3nwvxo608r2p37d/khac-biet-to-lon.lrc',
@@ -867,7 +867,7 @@ const ap = new APlayer({
             theme: '#0c0285',
         },
         {
-            name: 'Đừng Nói Lời Chia Tay Khi Em Vẫn Còn Yêu',
+            name: 'Đừng Nói Lời Chia Tay KEVCY',
             artist: 'Châu Gia Kiệt',
             url: 'https://dl.dropboxusercontent.com/s/6hekcb9bbou6zna/Dung-Noi-Chia-Tay-Khi-Em-Van-Con-Yeu-Chau-Gia-Kiet.mp3',
             cover: 'https://i.imgur.com/YU8wCTt.jpg',
@@ -985,7 +985,7 @@ const ap = new APlayer({
             theme: '#ec9a2d',
         },
         {
-            name: 'Thanh Xuân Của Anh Viết Tắt Là Em',
+            name: 'Thanh Xuân Của Anh VTLE',
             artist: 'Bằng Việt Nguyễn',
             url: 'https://dl.dropboxusercontent.com/s/1zris7kpbph1myv/Thanh-Xuan-Cua-Anh-Viet-Tat-La-Em-Bang-Viet-Nguyen.mp3',
             cover: 'https://i.imgur.com/KHJqT2W.jpg',
@@ -1001,7 +1001,7 @@ const ap = new APlayer({
         },
         {
             name: 'Sóng Gió',
-            artist: 'Jack, K-ICM',
+            artist: 'Jack',
             url: 'https://dl.dropboxusercontent.com/s/0kfllc50qmbo8ne/Song-Gio-Jack-K-ICM.mp3',
             cover: 'https://i.imgur.com/4HoysrT.jpg',
             lrc: 'https://dl.dropboxusercontent.com/s/oneoa9s68bfyitj/song-gio.lrc',
@@ -1059,7 +1059,7 @@ const ap = new APlayer({
         },
         {
             name: 'Bạc Phận',
-            artist: 'Jack, K-ICM',
+            artist: 'Jack',
             url: 'https://dl.dropboxusercontent.com/s/v6sejz9ytnzr71p/Bac-Phan-Jack-K-ICM.mp3',
             cover: 'https://i.imgur.com/4HoysrT.jpg',
             theme: '#324895',
@@ -1192,7 +1192,7 @@ const ap = new APlayer({
         },
         {
             name: 'Em Gì Ơi',
-            artist: 'Jack, K-ICM',
+            artist: 'Jack',
             url: 'https://dl.dropboxusercontent.com/s/j89g8oohf2x1g1y/Em-Gi-Oi-Jack-K-ICM.mp3',
             cover: 'https://i.imgur.com/4HoysrT.jpg',
             theme: '#cb9818',
@@ -1346,7 +1346,7 @@ const ap = new APlayer({
         },
         {
             name: 'Ai Mang Cô Đơn Đi',
-            artist: 'APJ, K-ICM',
+            artist: 'APJ',
             url: 'https://dl.dropboxusercontent.com/s/kq712l51o2b589o/Ai-Mang-Co-Don-Di-APJ-K-ICM.mp3',
             cover: 'https://i.imgur.com/PeW1GxI.jpg',
             theme: '#facd43',
@@ -1451,7 +1451,7 @@ const ap = new APlayer({
         },
         {
             name: 'Mashup Hoa Bằng Lăng (Cover)',
-            artist: 'Jack Viet Nam, Duong Tang',
+            artist: 'Jack Viet Nam, DT',
             url: 'https://dl.dropboxusercontent.com/s/gwsq215zk5lsllq/Mashup-Hoa-Bang-Lang-Cover-Jack-Viet-Nam-Duong-Tang.mp3',
             cover: 'https://i.imgur.com/HOJa0jv.jpg',
             theme: '#beab1f',
@@ -2082,7 +2082,7 @@ const ap = new APlayer({
             theme: '#fc4e8e',
         },
         {
-            name: 'Anh Chỉ Biết Câm Nín Nghe Tiếng Em Khóc',
+            name: 'Anh Chỉ Biết Câm Nín NTEK',
             artist: 'Ưng Hoàng Phúc',
             url: 'https://dl.dropboxusercontent.com/s/jf95joiyswe6su0/Anh-Chi-Biet-Cam-Nin-Nghe-Tieng-Em-Khoc-Ung-Hoang-Phuc.mp3',
             cover: 'https://i.imgur.com/Y7xkAA6.jpg',
