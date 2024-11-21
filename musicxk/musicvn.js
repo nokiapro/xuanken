@@ -27,7 +27,7 @@ const ap = new APlayer({
             url: 'https://archive.org/download/musicnewxk/NguoiCuConYeu-PhaPham.mp3',
             cover: 'https://i.imgur.com/O9jMw1W.jpeg',
             theme: '#5d557a',
-        }
+        },
         {
             name: 'Nơi Vực Nơi Trời (Ballad)',
             artist: 'Lê Bảo Bình',
