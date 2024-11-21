@@ -62,7 +62,7 @@ const ap = new APlayer({
             artist: 'Đặng Thiên Chí',
             url: 'https://archive.org/download/musicnewxk/CamOnEm-ThienChi.mp3',
             cover: 'https://i.imgur.com/vcoSn3O.jpeg',
-            lrc: 'lyric/CamOnEm-ThienChi.lrc',
+            lrc: 'https://nokiapro.github.io/xuanken/lyric/CamOnEm-DangThienTri.lrc',
             theme: '#66c6da',
         },
         {
@@ -246,7 +246,7 @@ const ap = new APlayer({
         },
         {
             name: 'Thì Thôi',
-            artist: 'Nal, TVk, 93NEW-G',
+            artist: 'Nal, TVk',
             url: 'https://dl.dropboxusercontent.com/s/1si5zl0irgko6cc/Thi-Thoi-Nal.mp3',
             cover: 'https://i.imgur.com/2nf7zg4.jpg',
             lrc: 'https://dl.dropboxusercontent.com/s/4hqgrji3dtwenj5/Thi-Thoi.lrc',
@@ -550,7 +550,7 @@ const ap = new APlayer({
             theme: '#706195',
         },
         {
-            name: 'Em Sẽ Là Người Ra Đi (Version 2021)',
+            name: 'Em Sẽ Là Người Ra Đi (Ver 2021)',
             artist: 'Cẩm Ly',
             url: 'https://dl.dropboxusercontent.com/s/c54j7w7ts923xeb/Em-Se-La-Nguoi-Ra-Di-Ver-2021-Cam-Ly.mp3',
             cover: 'https://i.imgur.com/W95yCm2.jpg',
