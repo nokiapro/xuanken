@@ -22,6 +22,13 @@ const ap = new APlayer({
     autoplay: true,
     audio: [
         {
+            name: 'Người Cũ Còn Yêu',
+            artist: 'Pha Phạm',
+            url: 'https://archive.org/download/musicnewxk/NguoiCuConYeu-PhaPham.mp3',
+            cover: 'https://i.imgur.com/O9jMw1W.jpeg',
+            theme: '#5d557a',
+        }
+        {
             name: 'Nơi Vực Nơi Trời (Ballad)',
             artist: 'Lê Bảo Bình',
             url: 'https://archive.org/download/musicnewxk/NoiVucNoiTroiBallad-LeBaoBinh.mp3',
@@ -680,7 +687,7 @@ const ap = new APlayer({
         },
         {
             name: 'Chỉ Là Không Cùng Nhau (Live)',
-            artist: 'Tăng Phúc, Trương Thảo Nhi',
+            artist: 'Tăng Phúc, TTN',
             url: 'https://dl.dropboxusercontent.com/s/s5s8rl2sarp9d71/Chi-La-Khong-Cung-Nhau-Tang-Phuc-Truong-Thao-Nhi.mp3',
             cover: 'https://i.imgur.com/tvseqZN.jpg',
             theme: '#96abb7',
@@ -735,7 +742,7 @@ const ap = new APlayer({
             theme: '#a57b3a',
         },
         {
-            name: 'Mashup Ngôi Nhà Hoa Hồng & MNMN',
+            name: 'Mashup NNHH & MNMN',
             artist: 'Vicky Nhung, Tố Ny',
             url: 'https://dl.dropboxusercontent.com/s/h3iuj7haddllsgh/Mashup-Ngoi-Nha-Hoa-Hong-Moi-Nguoi-Mot-Noi-Vicky-Nhung-To-Ny.mp3',
             cover: 'https://i.imgur.com/V7pda6M.jpg',
