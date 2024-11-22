@@ -61,7 +61,7 @@ const ap = new APlayer({
             name: 'Cảm Ơn Em',
             artist: 'Đặng Thiên Chí',
             url: 'https://archive.org/download/musicnewxk/CamOnEm-ThienChi.mp3',
-            cover: 'https://i.imgur.com/vcoSn3O.jpeg',
+            cover: 'https://i.imgur.com/l3UvVz7.jpeg',
             lrc: 'https://nokiapro.github.io/xuanken/lyric/CamOnEm-DangThienTri.lrc',
             theme: '#66c6da',
         },
@@ -98,7 +98,7 @@ const ap = new APlayer({
             name: 'Anh Thôi Nhân Nhượng',
             artist: 'An Clock',
             url: 'https://archive.org/download/xkms_20240317/anhthoinhannhuong.mp3',
-            cover: 'https://i.imgur.com/JaAipww.jpeg',
+            cover: 'https://i.imgur.com/HuG0b8n.jpeg',
             theme: '#e04ebf',
         },
         {
