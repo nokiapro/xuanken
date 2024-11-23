@@ -14,7 +14,7 @@ const ap = new APlayer({
     lrcType: 3,
     loop: 'all',
     order: 'random',
-    preload: 'auto',
+    preload: 'metadata',
     listFolded: true,
     listMaxHeight: 660,
     showlrc: true,
@@ -87,6 +87,13 @@ const ap = new APlayer({
             theme: '#7434f4',
         },
         {
+            name: 'Hẹn Anh Khi Hoa Chưa Tàn (Cover)',
+            artist: 'Bảo Vân',
+            url: 'https://archive.org/download/musicnewxk/HenAnhKhiHoaChuaTanCover-BaoVan.mp3',
+            cover: 'https://i.imgur.com/R33q24c.jpeg',
+            theme: '#35add1',
+        },
+        {
             name: 'Ai Chung Tình Được Mãi (Rumba)',
             artist: 'Mochiii',
             url: 'https://archive.org/download/musicnewxk/AiChungTinhDuocMaiRumba-MoChiii.mp3',
@@ -100,6 +107,13 @@ const ap = new APlayer({
             url: 'https://archive.org/download/xkms_20240317/anhthoinhannhuong.mp3',
             cover: 'https://i.imgur.com/HuG0b8n.jpeg',
             theme: '#e04ebf',
+        },
+        {
+            name: 'Mộng Hoa Sim',
+            artist: 'Thiên Tú',
+            url: 'https://archive.org/download/musicnewxk/MongHoaSim-ThienTu.mp3',
+            cover: 'https://i.imgur.com/ocfO6br.jpeg',
+            theme: '#2a8367',
         },
         {
             name: 'Vũ Trụ Trong Anh',
@@ -914,7 +928,7 @@ const ap = new APlayer({
             name: 'Yêu Có Gì Vui',
             artist: 'Sang Bùi',
             url: 'https://dl.dropboxusercontent.com/s/kwlwusxxdmd9yz6/Yeu-Co-Gi-Vui-Sang-Bui.mp3',
-            cover: 'https://i.imgur.com/D7dA3Nx.png',
+            cover: 'https://i.imgur.com/aXJZHLt.jpeg',
             theme: '#4a174a',
         },
         {
