@@ -1965,7 +1965,7 @@ const ap = new APlayer({
         {
             name: 'Ngày Xưa Em Đến',
             artist: 'Anh Khang',
-            url: 'music/NgayXuaEmDen-AnhKhang.mp3',
+            url: 'https://archive.org/download/musicnewxk/NgayXuaEmDen-AnhKhang.mp3',
             cover: 'https://i.imgur.com/tm1fjhf.jpeg',
             theme: '#1d95aa',
         },
@@ -2072,7 +2072,7 @@ const ap = new APlayer({
             artist: 'Thái Lan Viên',
             url: 'https://dl.dropboxusercontent.com/s/myec4m2xahbh3im/Nguoi-Da-Tung-Thuong-Thai-Lan-Vien.mp3',
             cover: 'https://i.imgur.com/JANR14z.jpg',
-            theme: '',
+            theme: '#9fdad0',
         },
         {
             name: 'Nước Mắt Hạnh Phúc',
